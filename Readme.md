@@ -1,1 +1,1 @@
-## This is a collection of Map Reduce Sample Programs
+## This is a collection of Sample Map Reduce Programs
